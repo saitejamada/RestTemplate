@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<style>
+body{background-color:lightgrey}
+*{font-family: cursive;font-size:15px}
+#super{display: flex}
+</style>
+</head>
+<body>
+<h1>User Details</h1>
+<table border=5px>
+<tr>
+<th>id</th>
+<th>username</th>
+<th>name</th>
+<th>address</th>
+<th>phone</th>
+<th>email</th>
+<th>website</th>
+<th>comapany</th>
+<th>postcount</th>
+</tr>
+<tr th:each="reg : ${list}">
+<td th:text="${reg.id}"></td>
+<td th:text="${reg.username}"></td>
+<td th:text="${reg.name}"></td>
+<td th:text="${reg.address}"></td>
+<td th:text="${reg.phone}"></td>
+<td th:text="${reg.email}"></td>
+<td th:text="${reg.website}"></td>
+<td th:text="${reg.company}"></td>
+<td th:text="${reg.postscount}"></td>
+<td>
+</td>
+</tr>
+</table>
+<a th:href="@{admin}">back</a>
+
+</body>
+</html>

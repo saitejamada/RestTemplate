@@ -1,0 +1,12 @@
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="org.springframework.http.HttpEntity"><rhs name\="org.springframework.http.HttpEntity"/></lhs><lhs name\="java.lang.Enum"><rhs name\="org.springframework.http.HttpMethod"/><rhs name\="javax.persistence.CascadeType"/></lhs><lhs name\="java.lang.constant.Constable"><rhs name\="org.springframework.http.HttpMethod"/><rhs name\="javax.persistence.CascadeType"/></lhs><lhs name\="com.onlineshopping.model.Customer"><rhs name\="com.onlineshopping.model.Customer"/></lhs><lhs name\="com.onlineshopping.model.Account"><rhs name\="com.onlineshopping.model.Account"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="com.onlineshopping.model.Order"><rhs name\="com.onlineshopping.model.Order"/></lhs><lhs name\="com.onlineshopping.model.Payment"><rhs name\="com.onlineshopping.model.Payment"/></lhs><lhs name\="java.util.Date"><rhs name\="java.sql.Date"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.sql.Date"/></lhs><lhs name\="java.sql.Date"><rhs name\="java.sql.Date"/></lhs><lhs name\="com.onlineshopping.model.Web_user"><rhs name\="com.onlineshopping.model.Web_user"/></lhs><lhs name\="com.userpost.model.ResponseUsers"><rhs name\="com.userpost.model.ResponseUsers"/></lhs></history>
+content_assist_number_of_computers=19
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.internal.ui.navigator.layout=2
+org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.formatterprofiles.version=21
+spelling_locale_initialized=true
+typefilter_migrated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
